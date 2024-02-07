@@ -1,9 +1,15 @@
 # github-commands
 
+```
+git --help
+```
+
+##
+
 Clone a remote repository
 
 ```
-git clone https://github.com/DLSiem/commands.git
+git clone https://github.com/username/repo_name.git
 ```
 
 ##
@@ -18,7 +24,7 @@ git push origin main
 
 ##
 
-List commits history
+List commits history ( press 'q' to exit log )
 
 ```
 git log
